@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drmacze.f16launcher",
+      "sha256_cert_fingerprints": [
+        "4F:6C:88:4E:E6:DF:76:4B:B5:CD:B2:B6:B6:C1:3A:FA:95:16:4B:A9:20:7E:E6:95:27:4F:51:FC:DA:DC:09:B0"
+      ]
+    }
+  }
+]
